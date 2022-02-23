@@ -1,0 +1,1 @@
+cmd_/home/pi/drive/Teste2/motorModulo.ko := ld -r -EL --build-id=sha1  -T scripts/module.lds -o /home/pi/drive/Teste2/motorModulo.ko /home/pi/drive/Teste2/motorModulo.o /home/pi/drive/Teste2/motorModulo.mod.o;  true
